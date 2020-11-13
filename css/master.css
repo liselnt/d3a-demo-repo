@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(254,254,7);
+}
+
+.square {
+  background-color: black;
+  color: white;
+  height: 300px;
+  width: 300px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
